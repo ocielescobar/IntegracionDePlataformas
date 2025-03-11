@@ -1,0 +1,18 @@
+
+• ¿Qué procesos podemos identificar en el modelo?
+	-Proceso operativo
+	-Proceso de gestion
+• ¿Existen otros tipos de modelo de negocio?
+	Si, algunos otros modelos podrían incluir:
+	Compras centralizadas.
+	Compras descentralizadas.
+	Just in time (JIT).
+	Dropshipping.
+• En el caso de que la respuesta anterior sea positiva, indique cuáles.
+
+	Compras centralizadas - Un departamento gestiona todas las compras.
+	Compras descentralizadas - Cada área o departamento hace sus compras.
+	Just in time (JIT) - Se compra solo cuando es estrictamente necesario.
+	Dropshipping - No hay inventario propio, Se compra y se envia directo al cliente.
+
+• ¿Qué relaciones entre procesos pueden distinguir? Fundamente
